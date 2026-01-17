@@ -1,8 +1,8 @@
-# 🌸 <font color="#D10056">Welcome to the Bunny Lab!</font> 🌸
+# 🌸 Welcome to the Bunny Lab! 🌸
 
 ---
 
-### ✨ <font color="#FF69B4">Project Overview</font>
+### ✨ Project Overview
 **This repository contains my research on how many carrots my bunnies eat.**
 *Designed with love for:*
 
